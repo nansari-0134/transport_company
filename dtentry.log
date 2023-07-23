@@ -1,0 +1,12 @@
+Line 252: Property ItemData in unit had an invalid file reference.
+Line 254: Property List in unit had an invalid file reference.
+Line 325: Property Picture in first had an invalid file reference.
+Line 344: Property Picture in last had an invalid file reference.
+Line 362: Property Picture in prev had an invalid file reference.
+Line 380: Property Picture in nxt had an invalid file reference.
+Line 416: Property Picture in save had an invalid file reference.
+Line 434: Property Picture in cancel had an invalid file reference.
+Line 470: Property Picture in search had an invalid file reference.
+Line 490: Property Picture in edt had an invalid file reference.
+Line 509: Property Picture in dlt had an invalid file reference.
+Line 527: Property Picture in add had an invalid file reference.
